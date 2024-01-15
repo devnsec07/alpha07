@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Inshop-front",
-    "slug": "Inshop-front",
+    "name": "inshop_front",
+    "slug": "inshop_front",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
